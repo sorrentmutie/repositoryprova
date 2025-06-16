@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\corsi\\Overnet\\demo1\\DemoCiPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAF26F1-F12D-4CC7-ACCB-29B0D6F9A429}|DemoCiPipeline.Tests\\DemoCiPipeline.Tests.csproj|d:\\work\\corsi\\overnet\\demo1\\democipipeline\\democipipeline.tests\\democipipeline.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3CAF26F1-F12D-4CC7-ACCB-29B0D6F9A429}|DemoCiPipeline.Tests\\DemoCiPipeline.Tests.csproj|solutionrelative:democipipeline.tests\\democipipeline.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6DE9C-A054-4653-9B3F-D32861AEC086}|DemoCiPipeline.csproj|d:\\work\\corsi\\overnet\\demo1\\democipipeline\\democipipeline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D1A6DE9C-A054-4653-9B3F-D32861AEC086}|DemoCiPipeline.csproj|solutionrelative:democipipeline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoCiPipeline.Tests",
+              "DocumentMoniker": "D:\\work\\corsi\\Overnet\\demo1\\DemoCiPipeline\\DemoCiPipeline.Tests\\DemoCiPipeline.Tests.csproj",
+              "RelativeDocumentMoniker": "DemoCiPipeline.Tests\\DemoCiPipeline.Tests.csproj",
+              "ToolTip": "D:\\work\\corsi\\Overnet\\demo1\\DemoCiPipeline\\DemoCiPipeline.Tests\\DemoCiPipeline.Tests.csproj",
+              "RelativeToolTip": "DemoCiPipeline.Tests\\DemoCiPipeline.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T16:26:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoCiPipeline",
+              "DocumentMoniker": "D:\\work\\corsi\\Overnet\\demo1\\DemoCiPipeline\\DemoCiPipeline.csproj",
+              "RelativeDocumentMoniker": "DemoCiPipeline.csproj",
+              "ToolTip": "D:\\work\\corsi\\Overnet\\demo1\\DemoCiPipeline\\DemoCiPipeline.csproj",
+              "RelativeToolTip": "DemoCiPipeline.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T16:26:33.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
