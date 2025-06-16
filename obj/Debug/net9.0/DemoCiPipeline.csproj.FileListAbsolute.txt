@@ -1,0 +1,4 @@
+d:\work\corsi\Overnet\demo1\DemoCiPipeline\obj\Debug\net9.0\DemoCiPipeline.GeneratedMSBuildEditorConfig.editorconfig
+d:\work\corsi\Overnet\demo1\DemoCiPipeline\obj\Debug\net9.0\DemoCiPipeline.AssemblyInfoInputs.cache
+d:\work\corsi\Overnet\demo1\DemoCiPipeline\obj\Debug\net9.0\DemoCiPipeline.AssemblyInfo.cs
+d:\work\corsi\Overnet\demo1\DemoCiPipeline\obj\Debug\net9.0\DemoCiPipeline.csproj.CoreCompileInputs.cache

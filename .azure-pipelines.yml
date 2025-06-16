@@ -1,0 +1,20 @@
+trigger:
+  - main  # oppure "master" a seconda del nome del branch
+
+pool:
+  vmImage: 'windows-latest'  # anche 'ubuntu-latest' va bene
+
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '8.x'  # o 7.x o 6.x, a seconda del progetto
+
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'Build .NET project'
+
+- script: dotnet test --no-build --verbosity normal
+  displayName: 'Run tests'
